@@ -1,4 +1,4 @@
-### Project Summary
+# Image Segmentation using OpenCV
 
 #### Objective:
 The objective of this project is to implement a segmentation algorithm to identify individual grains within an image and extract the average color of each grain. The approach involves preprocessing the image, applying a segmentation algorithm to the image, and then saving the average color of each identified segment in a dataframe.
